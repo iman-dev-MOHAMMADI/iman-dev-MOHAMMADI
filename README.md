@@ -87,7 +87,7 @@ I believe AI creates real value only when it's delivered as a **usable service**
 <td width="50%">
 
 <a href="#">
-<img src="https://via.placeholder.com/480x270/1a1a1a/ffffff?text=Personal+AI+Assistant" width="100%"/>
+<img src="https://placehold.co/480x270/1a1a1a/ffffff?text=Personal+AI+Assistant" width="100%"/>
 </a>
 
 **🧠 Personal AI Assistant**
@@ -99,7 +99,7 @@ A cloud-based smart assistant with long-term memory (RAG), reasoning, tool calli
 <td width="50%">
 
 <a href="#">
-<img src="https://via.placeholder.com/480x270/2b2b2b/ffffff?text=TiraWork.ir" width="100%"/>
+<img src="https://placehold.co/480x270/2b2b2b/ffffff?text=TiraWork.ir" width="100%"/>
 </a>
 
 **🎬 TiraWork.ir**
@@ -113,7 +113,7 @@ Full design and development of a website for an animation studio — from back-e
 <td width="50%">
 
 <a href="#">
-<img src="https://via.placeholder.com/480x270/1a1a1a/ffffff?text=Instagram+Scraper" width="100%"/>
+<img src="https://placehold.co/480x270/1a1a1a/ffffff?text=Instagram+Scraper" width="100%"/>
 </a>
 
 **📡 Instagram Scraper**
@@ -125,7 +125,7 @@ A data extraction and processing system for Instagram, built for analysis and us
 <td width="50%">
 
 <a href="#">
-<img src="https://via.placeholder.com/480x270/2b2b2b/ffffff?text=Radar" width="100%"/>
+<img src="https://placehold.co/480x270/2b2b2b/ffffff?text=Radar" width="100%"/>
 </a>
 
 **📊 Radar**
@@ -139,7 +139,7 @@ A data collection and analysis system from multiple sources for monitoring infor
 <td width="50%" colspan="2">
 
 <a href="#">
-<img src="https://via.placeholder.com/980x270/1a1a1a/ffffff?text=Telegram+Bots" width="100%"/>
+<img src="https://raw.githubusercontent.com/iman-dev-MOHAMMADI/iman-dev-MOHAMMADI/main/assets/telegram-bots.png" width="100%"/>
 </a>
 
 **🤖 Telegram Bots**
