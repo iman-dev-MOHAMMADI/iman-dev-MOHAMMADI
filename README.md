@@ -1,18 +1,19 @@
+# `README.md`
+
 ````md
-<!-- ========================================= -->
-<!--            MOHAMMADI PROFILE             -->
-<!--        Black • White • Gray Theme        -->
-<!-- ========================================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:111111,50:2b2b2b,100:555555&text=IMAN%20MOHAMMADI&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20•%20AI%20Engineer%20•%20Building%20Intelligent%20Systems&descAlignY=58"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Build+once.+Automate+forever.;Turning+ideas+into+intelligent+systems.;Python+%7C+Django+%7C+AI+Agents+%7C+Automation;Code.+Think.+Create." />
+</p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,50:2a2a2a,100:000000&text=IMAN%20MOHAMMADI&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20•%20AI%20Engineer&descAlignY=60"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Turning+Ideas+Into+Intelligent+Systems;Build+Once+Automate+Forever;Backend+Developer+%7C+AI+Engineer;Python+•+Django+•+AI+Agents;Code+Think+Automate)](https://git.io/typing-svg)
+[![Profile Views](https://komarev.com/ghpvc/?username=iman-dev-MOHAMMADI&color=grey&style=flat-square)](https://github.com/iman-dev-MOHAMMADI)
+[![GitHub followers](https://img.shields.io/github/followers/iman-dev-MOHAMMADI?style=flat-square&color=black)](https://github.com/iman-dev-MOHAMMADI)
+[![Stars](https://img.shields.io/github/stars/iman-dev-MOHAMMADI?style=flat-square&color=black)](https://github.com/iman-dev-MOHAMMADI)
 
 </div>
 
@@ -20,88 +21,108 @@
 
 # 👋 Hello, I'm Iman Mohammadi
 
-Backend Developer and AI Engineer passionate about building intelligent systems, automation tools, and AI-powered products.
+Backend Developer and AI Enthusiast from Iran.
 
-I enjoy turning ideas into real-world applications using Python, Django, APIs, AI Agents, and modern software architecture.
+I enjoy building systems that combine:
 
-Currently focused on:
+- 🤖 Artificial Intelligence
+- 🌐 Backend Development
+- ⚡ Automation
+- 🧠 Memory Systems (RAG)
+- 🔗 APIs & Integrations
+- 📊 Data Processing
 
-- 🤖 AI Agents & Multi-Agent Systems
-- 🧠 RAG & Memory Systems
-- ⚡ Backend Development
-- 🌐 API Design
-- 📊 Data Collection & Automation
-- ☁️ Cloud & Deployment
+My goal is simple:
 
----
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,java,cs,html,css,js,mongodb,sqlite,postgres,redis,docker,git,github,linux,vscode&theme=dark"/>
-
-</div>
+> Build tools that save time, solve problems, and turn ideas into intelligent products.
 
 ---
 
-## 🤖 AI & Automation Stack
+# 🧠 Philosophy
 
-<div align="center">
+```text
+Less repetition.
+More automation.
 
-<img src="https://skillicons.dev/icons?i=py,github,docker,linux&theme=dark"/>
+Less complexity.
+More clarity.
 
-</div>
-
-- LangChain
-- LangGraph
-- RAG Systems
-- AI Agents
-- Telegram Bots
-- Web Scraping
-- Data Analysis
-- LLM Integration
-- Automation Systems
+Build systems, not just code.
+````
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Current Focus
+
+* AI Agents
+* LangGraph
+* LangChain
+* RAG Systems
+* Django APIs
+* Telegram Automation
+* Multi-Agent Systems
+* Backend Architecture
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,java,cs,docker,git,github,linux,mongodb,sqlite,postgres,redis,html,css,js,vscode,pycharm,postman&theme=dark"/>
+</p>
+
+---
+
+# 🤖 AI Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,docker,mongodb,git&theme=dark"/>
+</p>
+
+* LangChain
+* LangGraph
+* RAG
+* Prompt Engineering
+* Automation
+* AI Agents
+* API Integrations
+
+---
+
+# 🛠 Featured Projects
 
 ### 🤖 AI Personal Assistant
 
 Cloud-based assistant with:
 
-- Memory System (RAG)
-- Multi-Agent Architecture
-- Telegram Integration
-- Content Generation
-- Voice Features
-- API Integrations
+* Memory (RAG)
+* Multi-Agent Architecture
+* API Connections
+* Content Generation
+* Voice Capabilities
 
 ---
 
 ### 🌐 TiraWork
 
-Animation showcase website built using:
+Website designed and developed using:
 
-- HTML
-- CSS
-- Django
+* HTML
+* CSS
+* Django
 
-Live Demo:
-
+Live Project:
 https://tirawork.ir
 
 ---
 
-### 📡 Telegram Bots
+### 💬 Telegram Bots
 
-Automation and AI-powered bots:
+Building automation systems including:
 
-- Content Management
-- APIs
-- AI Features
-- User Systems
+* Management Bots
+* AI Bots
+* Utility Bots
 
 ---
 
@@ -109,141 +130,80 @@ Automation and AI-powered bots:
 
 Projects involving:
 
-- Scraping
-- Data Processing
-- Analysis
-- Automation
+* Web Scraping
+* Data Analysis
+* API Integrations
 
 ---
 
-## 📈 GitHub Statistics
+# 📈 GitHub Statistics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=333333"/>
-
-</div>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iman-dev-MOHAMMADI&show_icons=true&theme=dark&hide_border=true&bg_color=000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iman-dev-MOHAMMADI&layout=compact&theme=dark&hide_border=true&bg_color=000000"/>
+</p>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=iman-dev-MOHAMMADI&theme=dark&hide_border=true&background=000000"/>
+</p>
 
 ---
 
-## 📊 Activity Graph
+# 📊 Activity Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iman-dev-MOHAMMADI&theme=github-dark&bg_color=000000&hide_border=true"/>
+</p>
 
 ---
 
-## 🏆 Trophies
+# 🏆 Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=iman-dev-MOHAMMADI&theme=darkhub&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
-## 🧠 Philosophy
+# 🎯 2026 Goals
 
-```text
-Code with purpose.
-Build systems, not just software.
-Automate repetitive work.
-Keep learning.
-Create things that matter.
-````
+* Build production AI systems
+* Create useful products
+* Improve software architecture skills
+* Contribute to open source
+* Learn more about distributed systems
 
 ---
 
-## 🎯 Current Focus
+# ☕ Fun Facts
 
-* AI Agents
-* Backend Architecture
-* Automation Systems
-* API Development
-* Cloud Applications
-
----
-
-## 🌙 About Me
-
-```python
-class ImanMohammadi:
-
-    role = "Backend Developer & AI Engineer"
-
-    languages = [
-        "Python",
-        "Java",
-        "C#"
-    ]
-
-    backend = [
-        "Django",
-        "REST API"
-    ]
-
-    ai = [
-        "LangChain",
-        "LangGraph",
-        "RAG",
-        "AI Agents"
-    ]
-
-    databases = [
-        "MongoDB",
-        "SQLite",
-        "PostgreSQL"
-    ]
-
-    interests = [
-        "Automation",
-        "AI",
-        "Music",
-        "Technology"
-    ]
-
-    motto = "Build once. Automate forever."
-```
+* 🎸 Music producer and guitarist
+* 🤖 Interested in AI and intelligent systems
+* 🌐 Love building practical tools
+* 📚 Always learning
 
 ---
 
-## 📫 Connect With Me
+# 📫 Contact
 
-* GitHub: https://github.com/YOUR_USERNAME
-* Telegram: @imanmohammadi_E
-* Website: https://tirawork.ir
+Telegram:
+@imanmohammadi_E
+
+GitHub:
+https://github.com/iman-dev-MOHAMMADI
+
+Website:
+https://tirawork.ir
 
 ---
 
-<div align="center">
+<p align="center">
 
-### ⚫ Build Once • Automate Forever ⚪
+Code • Think • Automate
 
-</div>
-
-<!--
-Replace:
-YOUR_USERNAME
-with:
-
-iman-dev-MOHAMMADI
--->
-
-```
+</p>
 ```
