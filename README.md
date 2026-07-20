@@ -5,7 +5,7 @@
 
 <!-- Animated typing tagline -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=CCCCCC&center=true&vCenter=true&width=650&lines=%D9%87%D8%B1%DA%86%DB%8C+%D8%A8%D8%AE%D9%88%D8%A7%D9%85+%D9%85%DB%8C%E2%80%8C%D8%AA%D9%88%D9%86%D9%85+%D8%A8%D8%B3%D8%A7%D8%B2%D9%85.;I+build+AI-powered+products%2C+not+just+chatbots.;Agents+%7C+RAG+%7C+Automation+%7C+SaaS;Turning+real+user+needs+into+working+services." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=CCCCCC&center=true&vCenter=true&width=650&lines=I+can+build+anything+I+set+my+mind+to.;I+build+AI-powered+products%2C+not+just+chatbots.;Agents+%7C+RAG+%7C+Automation+%7C+SaaS;Turning+real+user+needs+into+working+services." alt="Typing SVG" />
 </a>
 
 &nbsp;
@@ -18,34 +18,34 @@
 
 ---
 
-### 🖤 درباره من
+### 🖤 About Me
 
-من **ایمان محمدی**، یک **AI Product Engineer** هستم که تمرکزم روی طراحی و ساخت سرویس‌های مبتنی بر هوش مصنوعی است.
+I'm **Iman Mohammadi**, an **AI Product Engineer** focused on designing and building AI-powered services.
 
-باور دارم هوش مصنوعی زمانی ارزش واقعی ایجاد می‌کند که در قالب یک **سرویس قابل‌استفاده** یا **محصولی که یک مشکل واقعی را حل می‌کند** ارائه شود؛ نه صرفاً یک مدل یا یک ربات گفتگو.
+I believe AI creates real value only when it's delivered as a **usable service** or a **product that solves a real problem** — not just a model or a chatbot.
 
-- 🔭 در حال حاضر روی **Personal AI Assistant** با قابلیت حافظه بلندمدت، Reasoning و Tool Calling کار می‌کنم
-- 🌱 تمرکز یادگیری: AI Agents، RAG Systems، Automation
-- 💬 شعار: **«هرچی بخوام می‌تونم بسازم.»**
-- ⚡ Fun fact: یا دارم یه چیز جدید می‌سازم، یا دارم یاد می‌گیرم... یا مردم
+- 🔭 Currently working on the front-end of an **educational platform** with the **AryanaCore** team, as a **Front-End Developer**
+- 🌱 Learning focus: building services and content production
+- 🧑‍🤝‍🧑 Team: **MOHAMMADI** — building a small team of my own
+- 💬 Motto: **"I can build anything I set my mind to."**
 
 ---
 
-### 🛠️ تکنولوژی‌ها
+### 🛠️ Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css,git,github,linux,docker,mongodb,sqlite,postgres,vscode,bash,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,django,html,css,js,git,github,docker,mongodb&theme=dark" style="background-color:#000000; padding:12px; border-radius:8px;" />
 </div>
 
 <div align="center">
 
-`AI Engineering` `LLM Agents` `RAG Systems` `Tool Calling` `Web Scraping` `API Design` `Backend Architecture`
+`Python` `Django` `HTML` `CSS` `JavaScript` `Git & GitHub` `Docker` `MongoDB / SQL`
 
 </div>
 
 ---
 
-### 📊 آمار گیت‌هاب
+### 📊 GitHub Stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=iman-dev-MOHAMMADI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc&count_private=true" />
@@ -70,17 +70,15 @@
 
 ---
 
-### 🐍 فعالیت روزانه
+### 🐍 Daily Activity
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/iman-dev-MOHAMMADI/iman-dev-MOHAMMADI/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> برای فعال شدن مار، ورک‌فلوی زیر رو باید در ریپو ست کنی (پایین‌تر توضیح داده شده).
-
 ---
 
-### 🚀 نمونه‌کارهای منتخب
+### 🚀 Featured Projects
 
 <div align="center">
 
@@ -93,7 +91,7 @@
 </a>
 
 **🧠 Personal AI Assistant**
-دستیار هوشمند ابری با حافظه بلندمدت (RAG)، Reasoning، Tool Calling و اتصال به APIهای مختلف
+A cloud-based smart assistant with long-term memory (RAG), reasoning, tool calling, and integration with multiple APIs
 
 `Python` `LLM` `RAG` `Agents`
 
@@ -105,7 +103,7 @@
 </a>
 
 **🎬 TiraWork.ir**
-طراحی و توسعه کامل وب‌سایت یک استودیوی انیمیشن — از بک‌اند تا SEO
+Full design and development of a website for an animation studio — from back-end to SEO
 
 `Django` `Frontend` `SEO` `Deployment`
 
@@ -119,7 +117,7 @@
 </a>
 
 **📡 Instagram Scraper**
-سیستم استخراج و پردازش داده از اینستاگرام برای تحلیل و استفاده در سرویس‌های هوشمند
+A data extraction and processing system for Instagram, built for analysis and use in AI-powered services
 
 `Python` `Scraping` `Data Pipeline`
 
@@ -131,7 +129,7 @@
 </a>
 
 **📊 Radar**
-سیستم جمع‌آوری و تحلیل داده از منابع مختلف برای پایش اطلاعات و آماده‌سازی داده برای AI
+A data collection and analysis system from multiple sources for monitoring information and preparing data for AI services
 
 `Python` `Automation` `Data Analysis`
 
@@ -145,7 +143,7 @@
 </a>
 
 **🤖 Telegram Bots**
-طراحی و توسعه ربات‌های تلگرام برای اتوماسیون، مدیریت کاربران و ارائه سرویس‌های مختلف
+Design and development of Telegram bots for automation, user management, and various services
 
 `Python` `Automation` `Bot Development`
 
